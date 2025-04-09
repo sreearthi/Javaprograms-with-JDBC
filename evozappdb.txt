@@ -1,0 +1,22 @@
+Spring Handson:
+
+
+
+
+create database evozappdp ;
+
+
+
+CREATE TABLE evoztable
+
+id int,
+
+emailid varchar(255),
+
+name varchar(255),
+
+password varchar(255),
+
+saltpassword varchar(255),
+
+username varchar(255).
